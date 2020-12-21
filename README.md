@@ -1,2 +1,2 @@
 # Cousera-Algorithms-specialisation-course-with-Cplus-plus
-solutions from exercises taken
+Assignment solutions I implemented as part of the Algorithm specialisation course on Cousera : https://www.coursera.org/specializations/data-structures-algorithms
